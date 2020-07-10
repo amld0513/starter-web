@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This repo is for training
 
 ## Introduction
 Adding a line HOT FIX EMERGENCY!
