@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 ## Introduction
-Messing around etc.
+Messing around etc. More Stuff HERE
 
 ## Purpose
 
@@ -15,3 +15,4 @@ Just do it!
 
 ## Deployment
 
+This is very simple
