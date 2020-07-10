@@ -3,6 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 ## Introduction
+Adding a line for example 
 Messing around etc. More Stuff HERE
 
 ## Purpose
