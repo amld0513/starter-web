@@ -24,3 +24,4 @@ This is very simple
 ##Copyright
 
 Git.training 2020
+all rights reserved
