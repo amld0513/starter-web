@@ -16,3 +16,7 @@ Just do it!
 ## Deployment
 
 This is very simple
+
+##Copyright
+
+Git.training 2020
